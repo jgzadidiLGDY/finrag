@@ -1,0 +1,10 @@
+openai>=1.35.3
+tiktoken
+faiss-cpu
+pandas
+numpy
+sqlite-utils
+pymupdf
+streamlit
+python-dotenv
+requests

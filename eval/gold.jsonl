@@ -1,0 +1,4 @@
+{"query": "Explain AAPL 2024 revenue guidance", "expected_ids": ["AAPL_10K_2024"]}
+{"query": "Summarize NVDA Q2 2024 data center growth", "expected_ids": ["NVDA_10Q_2024Q2", "NVDA_10K_2024"]}
+{"query": "What AI initiatives did Microsoft discuss in Q2 FY24?", "expected_ids": ["MSFT_call_Q2FY24"]}
+{"query": "Key risks NVIDIA highlighted in 2024 filings", "expected_ids": ["NVDA_10K_2024"]}

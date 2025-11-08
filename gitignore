@@ -1,0 +1,25 @@
+# Python/venv
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secret environment files
+.env
+.env.*
+*.key
+*.pem
+
+# Data & artifacts
+data/artifacts/
+
+# Streamlit cache
+.streamlit/

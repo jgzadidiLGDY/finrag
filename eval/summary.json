@@ -1,0 +1,8 @@
+[
+  {
+    "mode": "hybrid_or_mmr",
+    "mean_P@k": 0.0,
+    "avg_latency_ms": 1312.6,
+    "n_runs": 1
+  }
+]

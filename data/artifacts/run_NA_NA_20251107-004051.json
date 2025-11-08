@@ -1,0 +1,59 @@
+{
+  "query": "       AAPL AI demand\n\nTASK: Summarize the most relevant points in exactly 5 concise bullets. Focus on revenue, EPS, guidance, demand signals, and risks. Include citations with [U#]/[S#].",
+  "ticker": null,
+  "year": null,
+  "quarters": null,
+  "prompt": "You will answer a financial question using ONLY the sources listed below.\nUse bracket citations like [U1] or [S1] after each claim.\n\n=== QUESTION ===\n       AAPL AI demand\n\nTASK: Summarize the most relevant points in exactly 5 concise bullets. Focus on revenue, EPS, guidance, demand signals, and risks. Include citations with [U#]/[S#].\n\n=== SOURCES (Unstructured) ===\n[U1] UNK\nscore\n\n[U2] UNK\nticker\n\n[U3] UNK\nyear\n\n[U4] UNK\ndoc_type\n\n[U5] UNK\nsection\n\n[U6] UNK\npage\n\n[U7] UNK\ntext\n\n=== SOURCES (Structured) ===",
+  "answer": "The provided sources do not contain any relevant information regarding AAPL's AI demand, revenue, EPS, guidance, demand signals, or risks. Therefore, I cannot summarize any points based on the available data.\n\n*Note: No valid [U#]/[S#] citations detected. Please verify sources.*",
+  "bundle": {
+    "query": "       AAPL AI demand\n\nTASK: Summarize the most relevant points in exactly 5 concise bullets. Focus on revenue, EPS, guidance, demand signals, and risks. Include citations with [U#]/[S#].",
+    "faiss_hits": [
+      {
+        "id": 1,
+        "text": "score",
+        "score": null,
+        "meta": {}
+      },
+      {
+        "id": 2,
+        "text": "ticker",
+        "score": null,
+        "meta": {}
+      },
+      {
+        "id": 3,
+        "text": "year",
+        "score": null,
+        "meta": {}
+      },
+      {
+        "id": 4,
+        "text": "doc_type",
+        "score": null,
+        "meta": {}
+      },
+      {
+        "id": 5,
+        "text": "section",
+        "score": null,
+        "meta": {}
+      },
+      {
+        "id": 6,
+        "text": "page",
+        "score": null,
+        "meta": {}
+      },
+      {
+        "id": 7,
+        "text": "text",
+        "score": null,
+        "meta": {}
+      }
+    ],
+    "financials": {}
+  },
+  "latency_ms": 1051.2616999913007,
+  "model": "gpt-4o-mini",
+  "timestamp": "20251107-004051"
+}

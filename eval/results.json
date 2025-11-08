@@ -1,0 +1,11 @@
+[
+  {
+    "query": "AAPL AI demand",
+    "k": 7,
+    "precision@k": 0.0,
+    "latency_ms": 1312.6,
+    "alpha": null,
+    "lam": null,
+    "mode": "hybrid_or_mmr"
+  }
+]
