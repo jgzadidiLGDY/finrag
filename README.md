@@ -114,3 +114,7 @@ Place your source files here (example):
 ![](assets/summary_panel.png)
 *Concise, cited recap for quick reading; reuses the same retrieval context.*
 
+
+## License
+This project is licensed under the MIT License — see the LICENSE file for details.
+
